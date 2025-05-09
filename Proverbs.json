@@ -1,0 +1,330 @@
+[
+  {
+    "id": 1,
+    "textDari": "ز گهواره تا گور دانش بجوی",
+    "textPashto": "د گهوارې څخه تر قبر پورې پوهه لټوه",
+    "translationEn": "Seek knowledge from the cradle to the grave.",
+    "meaning": "Lifelong learning is essential; education has no age limit.",
+    "category": "knowledge"
+  },
+  {
+    "id": 2,
+    "textDari": "پرسیدن عیب نیست، ندانستن عیب است",
+    "textPashto": "پوښتنه عیب نه ده، نه پوهیدل عیب دی",
+    "translationEn": "The shame is not in asking; shame is in not knowing.",
+    "meaning": "Asking questions is wise; ignorance is the true flaw.",
+    "category": "wisdom"
+  },
+  {
+    "id": 3,
+    "textDari": "چو استاده ای، دست افتاده گیر",
+    "textPashto": "کله چې ولاړ یې، د ځمکې خوړو ته لاس ورکړه",
+    "translationEn": "As long as you are standing, give a hand to those who have fallen.",
+    "meaning": "Help others when you are able; kindness is a virtue.",
+    "category": "kindness"
+  },
+  {
+    "id": 4,
+    "textDari": "در نومیدی بسی امید است پایان شب سیه سپید است",
+    "textPashto": "په ناامیدۍ کې ډیر امید شته، تورې شپې پای سپین دی",
+    "translationEn": "The darkest hour is just before the dawn.",
+    "meaning": "Hopelessness contains hope; light follows darkness.",
+    "category": "hope"
+  },
+  {
+    "id": 5,
+    "textDari": "قطره دریاست، اگر با دریاست ورنه قطره قطره، دریا دریاست",
+    "textPashto": "څاڅکې سمندر دی، که په سمندر کې وي، نه نو څاڅکې څاڅکې او سمندر سمندر دی",
+    "translationEn": "A drop is ocean only when it is in the ocean; otherwise, a drop is a drop.",
+    "meaning": "Unity gives strength; isolation diminishes value.",
+    "category": "unity"
+  },
+  {
+    "id": 6,
+    "textDari": "سالی که نکوست، از بهارش پیداست",
+    "textPashto": "ښه کال د پسرلي څخه پیژندل کیږي",
+    "translationEn": "A good year is evident in its Spring.",
+    "meaning": "A strong start predicts success.",
+    "category": "foresight"
+  },
+  {
+    "id": 7,
+    "textDari": "گر صبر کنی، ز غوره حلوا سازی",
+    "textPashto": "که صبر وکړې، د خځمې څخه حلوې جوړې کړې",
+    "translationEn": "If you exercise patience, you may make a sweet-meat out of the sour grape.",
+    "meaning": "Patience transforms challenges into rewards.",
+    "category": "patience"
+  },
+  {
+    "id": 8,
+    "textDari": "مار گزیده از ریسمان سیاه و سفید می‌ترسد",
+    "textPashto": "چې مار وخوري، د تور او سپین تار څخه ویره لري",
+    "translationEn": "Once bitten, twice shy.",
+    "meaning": "Past trauma makes one cautious of similar situations.",
+    "category": "caution"
+  },
+  {
+    "id": 9,
+    "textDari": "هیچ ارزانی بی علّت نیست",
+    "textPashto": "هیڅ ارزانه شی بی علته نه دی",
+    "translationEn": "Nothing is cheap for no reason.",
+    "meaning": "Beware of hidden costs or deceptions.",
+    "category": "wisdom"
+  },
+  {
+    "id": 10,
+    "textDari": "دروغگو کم حافظه است",
+    "textPashto": "درغجن ضعیف حافظه لري",
+    "translationEn": "A liar is forgetful.",
+    "meaning": "Lies are hard to maintain; truth is simpler.",
+    "category": "honesty"
+  },
+  {
+    "id": 11,
+    "textDari": "عاقبت حق به حق‌دار می‌رسد",
+    "textPashto": "په پای کې حق د حق دار ته رسيږي",
+    "translationEn": "Eventually justice serves he who is deserving.",
+    "meaning": "Justice prevails in the end; the righteous will be rewarded.",
+    "category": "justice"
+  },
+  {
+    "id": 12,
+    "textDari": "ماهی را هروقت از آب بگیری تازه است",
+    "textPashto": "کب هر وخت چې له اوبو څخه واخلې، تازه دی",
+    "translationEn": "Whenever you catch the fish, it is fresh.",
+    "meaning": "It’s never too late to start or correct a mistake.",
+    "category": "opportunity"
+  },
+  {
+    "id": 13,
+    "textDari": "بخند تا دنیا به رویت بخندد",
+    "textPashto": "خندل وکړه تر څو نړۍ هم ستا په خندا خندل وکړي",
+    "translationEn": "Laugh and the world laughs with you.",
+    "meaning": "Positivity attracts positivity; kindness begets kindness.",
+    "category": "positivity"
+  },
+  {
+    "id": 14,
+    "textDari": "جوجه را آخر پاییز می‌شمارند",
+    "textPashto": "چوړې د مني په پای کې شمیرل کیږي",
+    "translationEn": "Chickens are counted at the end of Fall.",
+    "meaning": "Don’t celebrate success prematurely; wait for results.",
+    "category": "caution"
+  },
+  {
+    "id": 15,
+    "textDari": "شاهنامه آخرش خوش است",
+    "textPashto": "شاهنامه په پای کې ښه ده",
+    "translationEn": "The Shahnameh is pleasant only at its end.",
+    "meaning": "Judge things after completion; endings matter most.",
+    "category": "patience"
+  },
+  {
+    "id": 16,
+    "textDari": "چو بد کردی، مشو ایمن ز آفات که واجب شد طبیعت را مکافات",
+    "textPashto": "کله چې بد کار وکړې، د عذابونو څخه ځان خوندي مه ګڼه، چې طبیعت مجازات کوي",
+    "translationEn": "What goes around, comes around.",
+    "meaning": "Actions have consequences; karma is inevitable.",
+    "category": "karma"
+  },
+  {
+    "id": 17,
+    "textDari": "سال به سال، دریغ از پارسال",
+    "textPashto": "کال په کال کې، د تیر کال له لاسه ورکول",
+    "translationEn": "Year after year, we long for the past year.",
+    "meaning": "Nostalgia blinds us to the present; cherish now.",
+    "category": "time"
+  },
+  {
+    "id": 18,
+    "textDari": "تو نیکی می‌کن و در دجله انداز که ایزد در بیابانت دهد باز",
+    "textPashto": "نیکي وکړه او په دجلې کې یې وغورځوه، چې خدا به په ډبره کې راستنه کړي",
+    "translationEn": "Toss kindness into the Tigris; God will return it in the desert.",
+    "meaning": "Good deeds are repaid unexpectedly.",
+    "category": "kindness"
+  },
+  {
+    "id": 19,
+    "textDari": "کوه به کوه نمی‌رسد، آدم به آدم می‌رسد",
+    "textPashto": "غره غره ته نه رسي، خو سړی سړی ته رسي",
+    "translationEn": "Mountains don’t meet, but people do.",
+    "meaning": "Human connections transcend barriers.",
+    "category": "unity"
+  },
+  {
+    "id": 20,
+    "textDari": "صبر تلخ است، ولیکن بر شیرین دارد",
+    "textPashto": "صبر خوږ نه دی، خو پایله یې خوږه ده",
+    "translationEn": "Patience is bitter, but its fruit is sweet.",
+    "meaning": "Endurance leads to rewarding outcomes.",
+    "category": "patience"
+  },
+  {
+    "id": 21,
+    "textDari": "سنگ مفت، گنجشک مفت",
+    "textPashto": "وړه وړه شيان وړه وړه مرغان",
+    "translationEn": "Free stones, free sparrows.",
+    "meaning": "Easy come, easy go; value nothing gained without effort.",
+    "category": "value"
+  },
+  {
+    "id": 22,
+    "textDari": "طناب مفت ببیند، خود را دار می‌زند",
+    "textPashto": "وړه تار وويني، خپل ځان ته دار ورځي",
+    "translationEn": "He’d hang himself with a free rope.",
+    "meaning": "Fools exploit opportunities to their own harm.",
+    "category": "folly"
+  },
+  {
+    "id": 23,
+    "textDari": "میگم نره، میگه بدوش",
+    "textPashto": "زه وایم نر دی، هغه وايي شیدې ورکړه",
+    "translationEn": "I say ‘It’s a bull,’ he says ‘Milk it!’",
+    "meaning": "Stubborn ignorance ignores reality.",
+    "category": "ignorance"
+  },
+  {
+    "id": 24,
+    "textDari": "هم خدا را می‌خواهد، هم خرما را",
+    "textPashto": "هم خدا غواړي، هم خرمه",
+    "translationEn": "He wants both God and the date.",
+    "meaning": "Greed prevents contentment; you can’t have it all.",
+    "category": "greed"
+  },
+  {
+    "id": 25,
+    "textDari": "مرغ همسایه غاز است",
+    "textPashto": "د ګاونډي مرغه غاز ده",
+    "translationEn": "The neighbor’s chicken is a goose.",
+    "meaning": "Others’ possessions seem better than ours.",
+    "category": "envy"
+  },
+  {
+    "id": 26,
+    "textDari": "تنبل نرو به سایه، سایه خودش میآیه",
+    "textPashto": "تنبل مه ځه سایه ته، سایه پخپله راځي",
+    "translationEn": "Lazy one, don’t seek shade—shade will come to you.",
+    "meaning": "Laziness avoids even minimal effort.",
+    "category": "laziness"
+  },
+  {
+    "id": 27,
+    "textDari": "هلو، برو تو گلو",
+    "textPashto": "هلو، زما په غاړه کې ځه",
+    "translationEn": "Peach, go into my throat!",
+    "meaning": "Something effortlessly enjoyable.",
+    "category": "ease"
+  },
+  {
+    "id": 28,
+    "textDari": "حسنی به مکتب نمی‌رفت؛ وقتی می‌رفت، جمعه می‌رفت",
+    "textPashto": "حسنی نه تللی و مکتب ته، کله چې ولاړ شو، جمعه وه",
+    "translationEn": "Hassani wouldn’t go to school; when he went, it was Friday.",
+    "meaning": "Procrastination leads to missed opportunities.",
+    "category": "procrastination"
+  },
+  {
+    "id": 29,
+    "textDari": "فلفل نبین چه ریزه، بشکن ببین چه تیزه",
+    "textPashto": "فلفل مه ګورې څومره وړ دی، مات کړه وګوره څومره توند دی",
+    "translationEn": "Don’t judge the pepper by its size—break it and see its heat.",
+    "meaning": "Appearances deceive; true nature lies within.",
+    "category": "appearance"
+  },
+  {
+    "id": 30,
+    "textDari": "از اون نترس که های و هو داره؛ از اون بترس که سر به تو داره",
+    "textPashto": "له هغه مه وېرېږې چې غږ کوي، له هغه ووېرېږه چې په تا پورې سر لري",
+    "translationEn": "Fear not the noisy one; fear the silent one watching you.",
+    "meaning": "Quiet observers are more dangerous than loud complainers.",
+    "category": "caution"
+  },
+  {
+    "id": 31,
+    "textDari": "گل و خار همیشه با هم است",
+    "textPashto": "ګل او خار همیشه سره دي",
+    "translationEn": "No rose without a thorn.",
+    "meaning": "Beauty often comes with challenges.",
+    "category": "balance"
+  },
+  {
+    "id": 32,
+    "textDari": "گل پشت و رو ندارد",
+    "textPashto": "ګل شاته او مخه نلري",
+    "translationEn": "A flower has no front or back.",
+    "meaning": "True beauty is universal.",
+    "category": "beauty"
+  },
+  {
+    "id": 33,
+    "textDari": "زنبور همیشه پشت گله",
+    "textPashto": "مچۍ همیشه د ګل شاته ده",
+    "translationEn": "The bee is always behind the flower.",
+    "meaning": "Persistence leads to rewards.",
+    "category": "perseverance"
+  },
+  {
+    "id": 34,
+    "textDari": "شتر دیدی؟ ندیدی",
+    "textPashto": "اوښ مو لیدل؟ نه مو لیدل",
+    "translationEn": "Did you see the camel? No, you didn’t.",
+    "meaning": "Willful ignorance or denial of the obvious.",
+    "category": "ignorance"
+  },
+  {
+    "id": 35,
+    "textDari": "کافر همه را به کیش خود پندارد",
+    "textPashto": "کافر ټول خپل دین ګڼي",
+    "translationEn": "The infidel thinks everyone shares his faith.",
+    "meaning": "Projecting one’s flaws onto others.",
+    "category": "hypocrisy"
+  },
+  {
+    "id": 36,
+    "textDari": "دیوانه چو دیوانه ببیند خوشش آید",
+    "textPashto": "لیونی کله چې لیونی وګوري، خوښیږي",
+    "translationEn": "A madman delights in meeting another.",
+    "meaning": "Fools flock together.",
+    "category": "folly"
+  },
+  {
+    "id": 37,
+    "textDari": "دیگ به دیگ میگه: ”روت سیا“",
+    "textPashto": "دېګ د دیګ ته وايي: ”ستا مخ تور دی“",
+    "translationEn": "The pot calls the kettle black.",
+    "meaning": "Hypocrites blame others for their own flaws.",
+    "category": "hypocrisy"
+  },
+  {
+    "id": 38,
+    "textDari": "دیوار موش داره، موش هم گوش داره",
+    "textPashto": "دیوال موږک لري، موږک هم غوږ لري",
+    "translationEn": "Walls have mice, and mice have ears.",
+    "meaning": "Secrets are hard to keep; be discreet.",
+    "category": "secrecy"
+  },
+  {
+    "id": 39,
+    "textDari": "موشه تو سوراخ نمی‌رفت، یه جارو هم به دمش می‌بست",
+    "textPashto": "موږک په سوري کې نه ځي، یو جارو هم په لکۍ باندې تړي",
+    "translationEn": "The mouse wouldn’t enter the hole, so they tied a broom to its tail.",
+    "meaning": "Overcomplicating a simple task.",
+    "category": "folly"
+  },
+  {
+    "id": 40,
+    "textDari": "پز عالی، جیب خالی",
+    "textPashto": "ښه پخلا، خالي جیب",
+    "translationEn": "Great boast, small roast.",
+    "meaning": "Empty boasts lack substance.",
+    "category": "arrogance"
+  },
+  {
+    "id": 41,
+    "textDari": "میمون نمی‌تونه برقصه، میگه زمین کجه",
+    "textPashto": "بیزو نشي کولای ګډا وکړي، وايي ځمکه کج ده",
+    "translationEn": "The monkey couldn’t dance and blamed the crooked floor.",
+    "meaning": "Blaming others for one’s failures.",
+    "category": "excuses"
+  }
+]
