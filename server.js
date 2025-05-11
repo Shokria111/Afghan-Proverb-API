@@ -14,6 +14,10 @@ if(!fs.existsSync('Proverbs.json')) fs.writeFileSync('Proverbs.json','[]');
 
 app.use('/', allRoutes());
 
+app.get('/',(req,res)=>{
+    res.send('Afghan Proverbs API  is runing!');
+})
+
 app.listen(PORT, ()=>{
     console.log("Server is running"); 
 })

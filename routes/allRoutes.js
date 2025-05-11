@@ -2,6 +2,7 @@ import express from 'express';
 import {getProverbs, saveProverbs} from '../utils/fileHelpers.js';
 
 
+
 const router = express.Router();
 
 export default (upload) =>{
@@ -68,6 +69,7 @@ export default (upload) =>{
             
             const updatedProverb = { ...proverbs[index], ...req.body, id};
             proverbs[index] = updatedProverb; 
+            console.log(req.body);
 
             saveProverbs(proverbs);
             res.json({message : "proverb is updated!!!", updatedProverb}); 
@@ -88,10 +90,19 @@ export default (upload) =>{
                 return p.id === id; 
             });
             //delete that one
-            proverbs.splice(indexedDB, 1);
+            proverbs.splice(Index, 1);
 
             saveProverbs(proverbs);//saving the changes
             res.json({message: "proverb deleted !!"});
+
+        ////////////////show random proverb/////////////////////////
+        router.get('/random',(req,res)=>{
+            const proverbs = getProverbs();
+            const proverbIndex = Math.floor(Math.random()*proverbs.length);
+            const randomProverb = proverbs[proverbIndex]; 
+            res.json(randomProverb);
+        } );
+
 
     });
     return router;

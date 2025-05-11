@@ -326,5 +326,13 @@
     "translationEn": "The monkey couldn’t dance and blamed the crooked floor.",
     "meaning": "Blaming others for one’s failures.",
     "category": "excuses"
+  },
+  {
+    "id": 43,
+    "textDari": "از تو حرکت، از خدا برکت",
+    "textPashto": "له تا حرکت، له خدا برکت",
+    "translationEn": "From you effort, from God blessing",
+    "meaning": "Effort leads to success; God rewards those who try.",
+    "category": "Motivational"
   }
 ]
